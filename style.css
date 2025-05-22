@@ -1,0 +1,42 @@
+body{
+margin: 0;
+padding: 0;
+}
+section{
+ padding: 50px;
+ background-color: #727D73;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding: 40px;
+}
+.form{
+    width: 50%;
+    background-color: #AAB99A;
+    border-radius: 6px;
+    padding: 10px;
+}
+.form-control{
+ background-color:  rgb(245, 243, 243);
+ border: none;
+}
+.form-check{
+    padding-top: 8px;
+}
+.form-check-input{
+  background-color:  rgb(245, 243, 243); 
+
+}
+.btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.btn{
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+    background-color: #d0dfd0;
+}
